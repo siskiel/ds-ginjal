@@ -1,0 +1,8 @@
+1. import database dengan nama database_ginjal
+2. proses ada di aksi-reg.php,
+3. proses laporan ada di proses_cetak.php
+4. email "yolanda@gmail.com" , password "yola"
+
+yang paling penting adalah sesuaikan inputan untuk table2 nya ya yang di admin
+
+kalau di proses perhitungan udh sesuai
